@@ -5,9 +5,9 @@
 Se tutto è ok stampare "Accesso riuscito", altrimenti "Accesso negato"-->
 
 <form action="" method="GET">
-    <input type="text" name="name" id="name">
-    <input type="email" name="mail" id="mail">
-    <input type="text" name="age" id="age">
+    <input type="text" name="name" id="name" placeholder ="Type your name">
+    <input type="email" name="mail" id="mail" placeholder ="Type your mail">
+    <input type="text" name="age" id="age" placeholder ="Type your age">
     <input type="submit" value="check">
 </form>
 
